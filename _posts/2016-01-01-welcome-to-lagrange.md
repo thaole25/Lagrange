@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
+title: "Hi, I'm Thao"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
